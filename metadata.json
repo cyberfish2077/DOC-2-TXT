@@ -1,0 +1,6 @@
+{
+  "name": "Word2Txt Converter",
+  "description": "A clean and fast tool to convert Word documents (.docx) to plain text files (.txt) directly in your browser.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
